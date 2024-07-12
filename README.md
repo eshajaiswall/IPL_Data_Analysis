@@ -13,7 +13,7 @@ Identify trends in IPL data over time.
 
 Generate insights that can be used to improve the performance of IPL teams and players.
 
-Analysis :-
+**Analysis :-**
 o Highest scorer batter in in overall IPL
 
 o Lowest scorer batters in in overall IPL
@@ -48,7 +48,9 @@ o No. of matches hosted by different cities
 
 o Lucky stadium for the topmost team
 
-Challenges and Learnings :-
+
+**Challenges and Learnings :-**
+
 Data Analysis: Extracting insights from data hones your analytical skills and gives you practical experience in drawing conclusions.
 
 Data Cleaning: Real-world datasets often have missing or inconsistent data. Cleaning and preparing the data for analysis can be time-consuming.
@@ -57,7 +59,8 @@ Data Interpretation: Translating raw data into meaningful insights requires doma
 
 Problem Solving: Addressing challenges boosts problem-solving abilities as you find ways to overcome hurdles.
 
-Conclusions:-
+**Conclusions:-**
+
 Jos Buttler was the highest run scorer and Yuzvendra Chahal was the highest wicket-taker of IPL 2022.
 
 Quinton de Kock was the highest run scorer in a single inning with 140 runs.
